@@ -13,7 +13,18 @@ I'm a freshman majoring in computer science at the University of Illinois, Urban
 Skills: html, css, python, java, opencv, numpy, javascript, node.js, express, pupeteer -->
 
 # 💫 About Me:
-👋 Hi, I’m @aarohigupta<br><br>👀 I’m interested in artificial intelligence, fullstack web development, and integrating music and computer science.<br><br>🌱 I’m currently learning c++, tensorflow, reactjs<br><br>📫 You can reach me by<br><br>DMing me on instagram: @ aarohi.gupta.2211<br>Emailing me on aarohig2@illinois.edu<br><br>Fun fact: I'm a freshman majoring in computer science at the University of Illinois, Urbana Champaign. Currently, I’m working on using PSOLA for granular sythesis and multimedia information extraction system for the domain of sustainability using NLP and CV.
+
+👋 Hi, I’m @aarohigupta
+
+👀 I’m interested in artificial intelligence, fullstack web development, and integrating music and computer science.
+
+🌱 Currently, I’m working on a multimedia information extraction system for the domain of sustainability using NLP and CV. Additionally, I am also using PSOLA for granular sythesis with SIGMusic.
+
+📫 You can reach me by
+  - DMing me on instagram: @ aarohi.gupta.2211
+  - Emailing me on aarohig2@illinois.edu
+
+Fun fact: I'm a freshman majoring in computer science at the University of Illinois, Urbana Champaign. 
 
 
 ## 🌐 Socials:
