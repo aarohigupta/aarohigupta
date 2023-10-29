@@ -1,30 +1,16 @@
-<!--👋 Hi, I’m @aarohigupta
-
-👀 I’m interested in artificial intelligence, fullstack web development, and integrating music and computer science. 
-
-🌱 I’m currently learning c++, tensorflow, reactjs
-
-📫 You can reach me by 
-  - DMing me on instagram: @ aarohi.gupta.2211 
-  - Emailing me on aarohig2@illinois.edu
-
-I'm a freshman majoring in computer science at the University of Illinois, Urbana Champaign. Currently, I’m working on a NLP and VR centric language learning system for sign language. 
-
-Skills: html, css, python, java, opencv, numpy, javascript, node.js, express, pupeteer -->
-
 # 💫 About Me:
 
 👋 Hi, I’m @aarohigupta
 
 👀 I’m interested in artificial intelligence, fullstack web development, and integrating music and computer science.
 
-🌱 Currently, I’m working on a multimedia information extraction system for the domain of sustainability using NLP and CV. Additionally, I am also using PSOLA for granular sythesis with SIGMusic.
+🌱 Currently, I’m working on a multimedia information extraction system for the domain of sustainability using NLP and CV. Additionally, I am also using PSOLA for granular synthesis with SIGMusic.
 
 📫 You can reach me by
   - DMing me on instagram: @ aarohi.gupta.2211
   - Emailing me on aarohig2@illinois.edu
 
-Fun fact: I'm a freshman majoring in computer science at the University of Illinois, Urbana Champaign. 
+Fun fact: I'm a junior majoring in computer science at the University of Illinois, Urbana Champaign. 
 
 
 ## 🌐 Socials:
